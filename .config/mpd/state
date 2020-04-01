@@ -1,0 +1,124 @@
+sw_volume: 100
+audio_device_state:1:pulse audio
+state: stop
+current: 2
+random: 0
+repeat: 0
+single: 0
+consume: 0
+crossfade: 0
+mixrampdb: 0.000000
+mixrampdelay: -1.000000
+playlist_begin
+0:Asking Alexandria/EPs/2006 - Tomorrow Hope Goodbye/01 - In Loving Memory Of You, Despite You.mp3
+1:Asking Alexandria/EPs/2006 - Tomorrow Hope Goodbye/03 - The Irony of Your Perfection (Unmastered).mp3
+2:Asking Alexandria/EPs/2006 - Tomorrow Hope Goodbye/02 - Writing Her Ballad.mp3
+3:Asking Alexandria/Albums/2007 - The Irony of Your Perfection/01 - Bite Your Lip And Fake It.mp3
+4:Asking Alexandria/Albums/2007 - The Irony of Your Perfection/02 - Bitter Revenge, Sweet Tragedy.mp3
+5:Asking Alexandria/Albums/2007 - The Irony of Your Perfection/03 - Gramophone Elegance.mp3
+6:Asking Alexandria/Albums/2007 - The Irony of Your Perfection/04 - In Loving Memory of You, Despite.mp3
+7:Asking Alexandria/Albums/2007 - The Irony of Your Perfection/05 - My Last Words.mp3
+8:Asking Alexandria/Albums/2007 - The Irony of Your Perfection/06 - The Irony Of Your Perfection.mp3
+9:Asking Alexandria/Albums/2007 - The Irony of Your Perfection/07 - Wings For The Sake Of Falling.mp3
+10:Asking Alexandria/Albums/2007 - The Irony of Your Perfection/08 - Writing Her Ballad.mp3
+11:Asking Alexandria/Demos/2008 - Demo/01 - Not The American Average.mp3
+12:Asking Alexandria/Demos/2008 - Demo/02 - A Candlelit Dinner With Inamorta.mp3
+13:Asking Alexandria/Demos/2008 - Demo/03 - A Single Moment Of Sincerity.mp3
+14:Asking Alexandria/Demos/2008 - Demo/04 - Final Episode Lets Change The Channel.mp3
+15:Asking Alexandria/Demos/2008 - Demo/05 - I Was Once Possibly Maybe Perhaps A Cowboy Kin.mp3
+16:Asking Alexandria/Demos/2008 - Demo/06 - Nobody Dont Dance No More.mp3
+17:Asking Alexandria/Albums/2009 - Stand Up And Scream/01 - Alerion.mp3
+18:Asking Alexandria/Albums/2009 - Stand Up And Scream/02 - Final Episode (Let's Change the Channel).mp3
+19:Asking Alexandria/Albums/2009 - Stand Up And Scream/03 - A Candlelit Dinner With Inamorta.mp3
+20:Asking Alexandria/Albums/2009 - Stand Up And Scream/04 - Nobody Don't Dance No More.mp3
+21:Asking Alexandria/Albums/2009 - Stand Up And Scream/05 - Hey There Mr. Brooks (Feat. Alesana).mp3
+22:Asking Alexandria/Albums/2009 - Stand Up And Scream/06 - Hiatus.mp3
+23:Asking Alexandria/Albums/2009 - Stand Up And Scream/07 - If You Can't Ride Two Horses At Once... You Should Get Out of the Circus.mp3
+24:Asking Alexandria/Albums/2009 - Stand Up And Scream/08 - A Single Moment Of Sincerity.mp3
+25:Asking Alexandria/Albums/2009 - Stand Up And Scream/09 - Not The American Average.mp3
+26:Asking Alexandria/Albums/2009 - Stand Up And Scream/10 - I Used To Have A Best Friend (But Then He Gave Me an STD).mp3
+27:Asking Alexandria/Albums/2009 - Stand Up And Scream/11 - A Prophecy.mp3
+28:Asking Alexandria/Albums/2009 - Stand Up And Scream/12 - I Was Once, Possibly, Maybe, Perhaps A Cowboy King.mp3
+29:Asking Alexandria/Albums/2009 - Stand Up And Scream/13 - When Everyday's The Weekend.mp3
+30:Asking Alexandria/EPs/2010 - Life Gone Wild/01 - Youth Gone Wild (Skid Row Cover).mp3
+31:Asking Alexandria/EPs/2010 - Life Gone Wild/02 - 18 And Life (Skid Row Cover).mp3
+32:Asking Alexandria/EPs/2010 - Life Gone Wild/03 - A Single Moment Of Sincerity (Bare Remix).mp3
+33:Asking Alexandria/EPs/2010 - Life Gone Wild/04 - Not The American Average (Roorny Remix).mp3
+34:Asking Alexandria/EPs/2010 - Life Gone Wild/05 - I Was Once, Possibly, Maybe, Perhaps A Cowboy King (Demo).mp3
+35:Asking Alexandria/EPs/2010 - Life Gone Wild/06 - Breathless.mp3
+36:Asking Alexandria/Singles/2011 - A Lesson Never Learned (Celldweller Remix) - Single/01 - A Lesson Never Learned [Celldweller Remix].mp3
+37:Asking Alexandria/Singles/2011 - Final Episode (Let's Change the Channel) [Borgore Remix] - Single/01 - Final Episode (Let's Change The Channel) [Borgore Remix].mp3
+38:Asking Alexandria/Singles/2011 - Morte et Dabo - Single/01 - Morte Et Dabo.mp3
+39:Asking Alexandria/Albums/2011 - Reckless And Relentless (Deluxe Edition)/01. Welcome.mp3
+40:Asking Alexandria/Albums/2011 - Reckless And Relentless (Deluxe Edition)/02. Dear Insanity.mp3
+41:Asking Alexandria/Albums/2011 - Reckless And Relentless (Deluxe Edition)/03. Closure.mp3
+42:Asking Alexandria/Albums/2011 - Reckless And Relentless (Deluxe Edition)/04. A Lesson Never Learned.mp3
+43:Asking Alexandria/Albums/2011 - Reckless And Relentless (Deluxe Edition)/05. To The Stage.mp3
+44:Asking Alexandria/Albums/2011 - Reckless And Relentless (Deluxe Edition)/06. Dedication.mp3
+45:Asking Alexandria/Albums/2011 - Reckless And Relentless (Deluxe Edition)/07. Someone, Somewhere.mp3
+46:Asking Alexandria/Albums/2011 - Reckless And Relentless (Deluxe Edition)/08. Breathless.mp3
+47:Asking Alexandria/Albums/2011 - Reckless And Relentless (Deluxe Edition)/09. The Match.mp3
+48:Asking Alexandria/Albums/2011 - Reckless And Relentless (Deluxe Edition)/10. Another Bottle Down.mp3
+49:Asking Alexandria/Albums/2011 - Reckless And Relentless (Deluxe Edition)/11. Reckless And Relentless.mp3
+50:Asking Alexandria/Albums/2011 - Reckless And Relentless (Deluxe Edition)/12. Morte Et Dabo.mp3
+51:Asking Alexandria/Albums/2011 - Reckless And Relentless (Deluxe Edition)/13. When Everydays The Weekend (Big Chocolate Rmx).mp3
+52:Asking Alexandria/Albums/2011 - Reckless And Relentless (Deluxe Edition)/14. Nobody Dont Dance No More (Noah D Rmx).mp3
+53:Asking Alexandria/Albums/2011 - Reckless And Relentless (Deluxe Edition)/15. If You Cant Ride Two Horses At Once... You Should Get Out Of The Circus (Noah D Rmx).mp3
+54:Asking Alexandria/Albums/2011 - Reckless And Relentless (Deluxe Edition)/16. I Was Once Possibly Maybe Perhaps A Cowboy King (Robosonics Rmx).mp3
+55:Asking Alexandria/Albums/2011 - Reckless And Relentless (Deluxe Edition)/17. A Prophecy (Big Chocolate Rmx).mp3
+56:Asking Alexandria/Albums/2011 - Reckless And Relentless (Deluxe Edition)/18. The Final Episode (Boregores Die Bitch Rmx).mp3
+57:Asking Alexandria/Albums/2011 - Reckless And Relentless (Deluxe Edition)/19. A Candlelit Dinner With Inamorta (Run Dmt Rmx).mp3
+58:Asking Alexandria/Albums/2011 - Reckless And Relentless (Deluxe Edition)/20. A Prophecy (Big Chocolate Electro Rmx).mp3
+59:Asking Alexandria/Remix-Albums/2011 - Stepped Up And Scratched/01 - A Single Moment of Sincerity [KC Blitz Remix].mp3
+60:Asking Alexandria/Remix-Albums/2011 - Stepped Up And Scratched/02 - Another Bottle Down [Tomba Remix].mp3
+61:Asking Alexandria/Remix-Albums/2011 - Stepped Up And Scratched/03 - Reckless and Relentless [Document One Remix].mp3
+62:Asking Alexandria/Remix-Albums/2011 - Stepped Up And Scratched/04 - I Was Once, Possibly, Maybe, Perhaps a Cowboy King [Robotsonics Remix].mp3
+63:Asking Alexandria/Remix-Albums/2011 - Stepped Up And Scratched/05 - To The Stage [Bare Remix].mp3
+64:Asking Alexandria/Remix-Albums/2011 - Stepped Up And Scratched/06 - A Lesson Never Learned [Celldweller Remix].mp3
+65:Asking Alexandria/Remix-Albums/2011 - Stepped Up And Scratched/07 - Final Episode (Let's Change The Channel) [Borgore Remix].mp3
+66:Asking Alexandria/Remix-Albums/2011 - Stepped Up And Scratched/08 - A Candlelit Dinner With Inamorta [Run DMT Remix].mp3
+67:Asking Alexandria/Remix-Albums/2011 - Stepped Up And Scratched/09 - If You Can't Ride Two Horses At Once... You Should Get Out of the Circu.mp3
+68:Asking Alexandria/Remix-Albums/2011 - Stepped Up And Scratched/10 - I Used To Have a Best Friend (But Then He Gave Me An STD) [Big Chocolat.mp3
+69:Asking Alexandria/Remix-Albums/2011 - Stepped Up And Scratched/11 - Dear Insanity [Revaleso Remix].mp3
+70:Asking Alexandria/Remix-Albums/2011 - Stepped Up And Scratched/12 - Not the American Average [J. Rabbit Remix].mp3
+71:Asking Alexandria/Remix-Albums/2011 - Stepped Up And Scratched/13 - Morte Et Dao [Sol Invicto Remix].mp3
+72:Asking Alexandria/Remix-Albums/2011 - Stepped Up And Scratched/14 - Closure [Mecha Remix].mp3
+73:Asking Alexandria/Remix-Albums/2011 - Stepped Up And Scratched/15 - A Prophecy [Big Chocolate Remix].mp3
+74:Asking Alexandria/Remix-Albums/2011 - Stepped Up And Scratched/16 - Lesson Never Learned [Sol Invicto Remix].mp3
+75:Asking Alexandria/Singles/2012 - Run Free - Single/01 - Run Free.mp3
+76:Asking Alexandria/EPs/2012 - Under The Influence - A Tribute To The Legends Of Hard Rock/01 - Here I Go Again.mp3
+77:Asking Alexandria/EPs/2012 - Under The Influence - A Tribute To The Legends Of Hard Rock/02 - Separate Ways.mp3
+78:Asking Alexandria/EPs/2012 - Under The Influence - A Tribute To The Legends Of Hard Rock/03 - Hysteria.mp3
+79:Asking Alexandria/EPs/2012 - Under The Influence - A Tribute To The Legends Of Hard Rock/04 - Kickstart My Heart.mp3
+80:Asking Alexandria/EPs/2012 - Under The Influence - A Tribute To The Legends Of Hard Rock/05 - Run Free.mp3
+81:Asking Alexandria/Albums/2013 - From Death To Destiny/01 - Don't Pray For Me.mp3
+82:Asking Alexandria/Albums/2013 - From Death To Destiny/02 - Killing You.mp3
+83:Asking Alexandria/Albums/2013 - From Death To Destiny/03 - The Death Of Me.mp3
+84:Asking Alexandria/Albums/2013 - From Death To Destiny/04 - Run Free.mp3
+85:Asking Alexandria/Albums/2013 - From Death To Destiny/05 - Break Down The Walls.mp3
+86:Asking Alexandria/Albums/2013 - From Death To Destiny/06 - Poison.mp3
+87:Asking Alexandria/Albums/2013 - From Death To Destiny/07 - Believe.mp3
+88:Asking Alexandria/Albums/2013 - From Death To Destiny/08 - Creature.mp3
+89:Asking Alexandria/Albums/2013 - From Death To Destiny/09 - White Line Fever.mp3
+90:Asking Alexandria/Albums/2013 - From Death To Destiny/10 - Moving On.mp3
+91:Asking Alexandria/Albums/2013 - From Death To Destiny/11 - The Road.mp3
+92:Asking Alexandria/Albums/2013 - From Death To Destiny/12 - Until The End.mp3
+93:Asking Alexandria/Albums/2013 - From Death To Destiny/13 - The Death Of Me (Bonus Track) [Rock Mix].mp3
+94:Asking Alexandria/Albums/2013 - From Death To Destiny (Deluxe Edition)/01. Don't Pray for Me.mp3
+95:Asking Alexandria/Albums/2013 - From Death To Destiny (Deluxe Edition)/02. Killing You.mp3
+96:Asking Alexandria/Albums/2013 - From Death To Destiny (Deluxe Edition)/03. The Death of Me.mp3
+97:Asking Alexandria/Albums/2013 - From Death To Destiny (Deluxe Edition)/04. Run Free.mp3
+98:Asking Alexandria/Albums/2013 - From Death To Destiny (Deluxe Edition)/05. Break Down the Walls.mp3
+99:Asking Alexandria/Albums/2013 - From Death To Destiny (Deluxe Edition)/06. Poison.mp3
+100:Asking Alexandria/Albums/2013 - From Death To Destiny (Deluxe Edition)/07. Believe.mp3
+101:Asking Alexandria/Albums/2013 - From Death To Destiny (Deluxe Edition)/08. Creature.mp3
+102:Asking Alexandria/Albums/2013 - From Death To Destiny (Deluxe Edition)/09. White Line Fever.mp3
+103:Asking Alexandria/Albums/2013 - From Death To Destiny (Deluxe Edition)/10. Moving On.mp3
+104:Asking Alexandria/Albums/2013 - From Death To Destiny (Deluxe Edition)/11. The Road.mp3
+105:Asking Alexandria/Albums/2013 - From Death To Destiny (Deluxe Edition)/12. Until the End (feat. Howard Jones).mp3
+106:Asking Alexandria/Albums/2013 - From Death To Destiny (Deluxe Edition)/13. The Death of Me (Bonus Track) [Rock Mix].mp3
+107:Asking Alexandria/Albums/2013 - From Death To Destiny (Deluxe Edition)/14. Dead (Bonus Track).mp3
+108:Asking Alexandria/Albums/2013 - From Death To Destiny (Deluxe Edition)/15. Someone, Somewhere (Bonus Track) [Ben Bruce Acoustic].mp3
+109:Asking Alexandria/Singles/2013 - The Death of Me - Single/01 - The Death of Me.mp3
+110:Asking Alexandria/Singles/2013 - The Death of Me - Single/02 - The Death of Me (Rock Mix).mp3
+playlist_end
